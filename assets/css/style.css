@@ -1,0 +1,23 @@
+header .row .col li {
+    display: flex;
+}
+
+header .row .col {
+    display: flex;
+    justify-content: end;
+}
+
+.goole {
+
+}
+
+.goole .row {
+text-align: center;
+}
+
+.goole .row .col {
+}
+
+.goole .row .col .rowimg {
+
+}
